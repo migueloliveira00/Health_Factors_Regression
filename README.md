@@ -28,7 +28,9 @@ The Scripts folder outlines a detailed procedural sequence of all the cleaning a
 ## Visualizations:
 All visualizations are shown and explained in detail on the final report. Some key visualizations are:
 
+![Correlation Matrix Heatmap](04 Visualizations/correlation_matrix_heatmap.png)
 
+Correlation Matrix Heatmap
 
 ## Recommendations & Findings:
 + According to the data analysis, early vaccination rates, years of schooling and GDP per capita have the biggest impact on life expectancy.
