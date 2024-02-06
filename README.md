@@ -25,13 +25,6 @@ The Scripts folder outlines a detailed procedural sequence of all the cleaning a
 + Renaming countries with wrong spelling and/or unnecessary wording.
 + Solving inconsistencies with Measles and BMI columns.
 
-## Visualizations:
-All visualizations are shown and explained in detail on the final report. Some key visualizations are:
-
-![Correlation Matrix Heatmap](04 Visualizations/correlation_matrix_heatmap.png)
-
-Correlation Matrix Heatmap
-
 ## Recommendations & Findings:
 + According to the data analysis, early vaccination rates, years of schooling and GDP per capita have the biggest impact on life expectancy.
 + According to the data analysis, years of schooling is the factor that most positively impact the average lifespan of a country's population.
