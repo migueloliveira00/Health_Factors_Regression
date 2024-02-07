@@ -5,7 +5,7 @@ This project aims to develop a comprehensive regression model, incorporating mix
 
 ## Tools & Skills:
 ### Python
-#### Packages: pandas, NumPy, Matplotlib, Seaborn, Sklearn, OS, Folium, JSON, Pylab 
+#### Packages: Sklearn, OS, Folium, JSON, Pylab 
 + Conducted data wrangling and merging procedures.
 + Employed grouping and aggregation methods to structure and condense data.
 + Developed visualizations to improve the representation and comprehension of data.
