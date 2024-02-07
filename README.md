@@ -15,7 +15,7 @@ This project aims to develop a comprehensive regression model, incorporating mix
 + Conducted time series analysis on GDP per capita, one of the leading influencing factors on life expectancy. 
 
 ### Tableau
-https://public.tableau.com/app/profile/miguel.oliveira8698/viz/WHOLifeExpectancy_17072297231160/WHOLifeExpectancyProject?publish=yes
+[https://public.tableau.com/app/profile/miguel.oliveira8698/viz/WHOLifeExpectancy_17072297231160/WHOLifeExpectancyProject?publish=yes](https://public.tableau.com/app/profile/miguel.oliveira8698/viz/WHOLifeExpectancyProject/WHOLifeExpectancyProject?publish=yes)
 
 ## Data Cleaning & Transformation:
 The Scripts folder outlines a detailed procedural sequence of all the cleaning and transformation steps. Key steps include:
